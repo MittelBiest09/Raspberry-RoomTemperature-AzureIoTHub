@@ -35,3 +35,5 @@ After executing the script now, you created a device identity for your Raspberry
 ## Sending temperature data to Azure IoT Hub
 To send your measured temperature data, you have to install the relevant Azure python packages as well as the other used python packages. Execute `RaspberryPiTemperatureDevice.py` to read your room temperature and send it to your Azure IoT Hub.
 
+# Licence
+MIT
